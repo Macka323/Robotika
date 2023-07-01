@@ -1,3 +1,10 @@
+/*
+  Code for the ArduinoUno
+
+  Set's all of the joints of the Braccio Arm to strings so they can be compatible with the ArduinoMega controlling them
+  Joints go from M1 to M6
+*/
+
 #include <Arduino.h>
 #include "Braccio.h"
 
